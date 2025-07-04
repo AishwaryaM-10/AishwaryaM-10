@@ -17,7 +17,6 @@ I'm a Computer Science student at **KLE Technological University**, passionate a
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 
 ### 📚 Libraries & Frameworks  
 `OpenCV` 👁️ • `NumPy` ➗ • `Pandas` 🐼 • `Matplotlib` 📊 • `Scikit-learn` 🔍 • `GANs` 🧠
