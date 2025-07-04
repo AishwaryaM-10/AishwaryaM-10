@@ -8,8 +8,7 @@ I'm a Computer Science student at **KLE Technological University**, passionate a
 ---
 
 ### 💼 About Me
-
-- 🎓 CS Undergrad at KLE Technological University, Belagavi  
+ 
 - 🤖 Working on AI-powered storytelling & comic generation using GaMaRTe & Stable Diffusion  
 - 🧠 Interested in NLP, GANs, and deep learning for creative applications  
 - 🌱 Currently exploring advanced model fine-tuning and DevOps practices  
