@@ -6,8 +6,6 @@
 I'm a Computer Science student at **KLE Technological University**, passionate about building real-world intelligent systems through AI, NLP, and software development. I love solving problems and exploring innovative ideas through hands-on coding and collaboration.
 
 ---
-
-### 💼 About Me
  
 - 🤖 Working on AI-powered storytelling & comic generation using GaMaRTe & Stable Diffusion  
 - 🧠 Interested in NLP, GANs, and deep learning for creative applications  
